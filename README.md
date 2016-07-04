@@ -8,3 +8,9 @@ Gives you the core css breakpoints for beaver builder with a logical structure t
 * Move to the higher device sizes and again adjust anything that is needed to make it look good on larger devices.
 
 * Where necessary, use the other areas such as 'small only' or 'medium & down' but be aware that this means all device sizes will process it regardless of if it's going to be used or not which may slow down load time.
+
+
+#### Enjoy!
+#### If this has helped you - think about shouting me a drink - or checking out some of my other products and snippets!
+
+https://j7digital.com/plugins-downloads/
