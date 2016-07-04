@@ -1,0 +1,45 @@
+/* ###########Small Only########### */
+@media screen and (max-width: 768px){
+
+}/* ###########END of Small Only########### */
+/* ###########Small and up####################################### */
+
+
+
+
+/* ###########END of Small and up################################# */
+/* ###########Medium and up########### */
+@media screen and (min-width: 768px){
+
+}/* ###########END of Medium and Up########### */
+/* ###########Large and Up########### */
+@media screen and (min-width: 992px){
+
+}/* ###########End of Large and Up########### */
+/* ######### X-Large And Up############# */
+@media screen and (min-width: 1100px){
+
+}/* ######### End of X-Large And up############# */
+/* ##########Super Large And Up ############ */
+@media screen and (min-width: 1200px){
+
+}/* ########## End of Super Large and Up ############ */
+/* ########## Small and Down ################################## */
+@media (max-width: 768px){
+
+
+
+
+}/* ########## End of Small and Down ####################### */
+/* ########## Medium and Down ############ */
+@media (max-width: 992px){
+
+}/* ########## End of Medium and Down ############ */
+/* ########## Large and Down ############ */
+@media (min-width: 1100px){
+
+}/* ########## End of Large and Down ############ */
+/* ########## Super Large and Down ############ */
+@media (min-width: 1280px){
+
+}/* ########## End of Super Large and Down ############ */
